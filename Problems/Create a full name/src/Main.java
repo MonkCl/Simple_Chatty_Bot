@@ -1,5 +1,4 @@
 // Don't delete scanner import
-
 import java.util.Scanner;
 
 class Name {
